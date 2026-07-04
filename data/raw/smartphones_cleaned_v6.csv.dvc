@@ -1,0 +1,5 @@
+outs:
+- md5: 3820a6f73f7a5970ee44b3111473c172
+  size: 140527
+  hash: md5
+  path: smartphones_cleaned_v6.csv
